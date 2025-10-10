@@ -1,0 +1,20 @@
+{
+    "users": {
+        "teat_user": {
+            "password": "123",
+            "tasks": []
+        },
+        "sheyeban": {
+            "password": "1611",
+            "role": "user",
+            "tasks": [
+                {
+                    "title": "Проект",
+                    "priority": "средний",
+                    "deadline": null,
+                    "done": false
+                }
+            ]
+        }
+    }
+}
